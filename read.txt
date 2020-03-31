@@ -1,0 +1,7 @@
+1. install module in rspi as given in video.
+module download in rpi 
+
+sudo apt-get update
+sudo apt-get install mysql-server
+sudo mysql
+
